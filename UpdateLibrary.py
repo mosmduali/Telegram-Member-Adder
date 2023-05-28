@@ -7,4 +7,4 @@ except ImportError:
     pipInstallTelethon = lambda: os.system('pip3 install telethon')
     pipInstallTelethon()
 
-import DualiAdder
+import DualiTMAdder
