@@ -4,9 +4,9 @@ A program to add people to your groups or channels in Telegram with Python.
 
 
 ***
-Contact me
+Contact me :)
 
-[Email](osmandvali@gmail.com) 
+Email: osmandvali@gmail.com
 
 [Telegram](https://t.me/DualiWithUs)
 
