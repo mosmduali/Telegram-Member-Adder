@@ -76,7 +76,7 @@ def banner():
     banner = f"""| {red}github.com/{green}muhammedosmanduali{reset}
 | {red}linkedin.com/in/{green}muhammedosmanduali{reset}
 | {red}instagram.com/{green}mosmanduali{reset}
-| {red}t.me/{green}DualiWithUs{reset}
+| {red}t.me/{green}mosmduali{reset}
     """
     print(banner)
 
