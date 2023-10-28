@@ -8,7 +8,7 @@ Contact me :)
 
 Email: osmandvali@gmail.com
 
-[Telegram](https://t.me/DualiWithUs)
+[Telegram](https://t.me/mosmduali)
 
 [Linkedin](https://www.linkedin.com/in/muhammedosmanduali/)
 
